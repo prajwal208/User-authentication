@@ -22,7 +22,7 @@ app.use('/api/v1/user',userRouter)
 app.use('/api/v1/customer',customerRouter)
 
 
-PORT = process.env.port || 3000
+PORT = process.env.PORT || 3000
 
 const start = async() => {
    try{
