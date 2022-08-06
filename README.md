@@ -8,5 +8,5 @@ including a set of claims. JWTs are signed using a cryptographic algorithm to en
 Login the valid Registered User.Store the data of the user in the mongodb Database with the hashing the password by bcrypt.js library
 
 <h2>You can find the Project demo here⬇️</h2>
-https://user-authication.netlify.app/
+
 
